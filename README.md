@@ -1,4 +1,4 @@
-All you need to play this game is a: python interpreter (recomanded: Pycharm or Visual Studio Code)
+All you need to play this game is a python interpreter (recomanded: Pycharm or Visual Studio Code)
 
 Step by Step guide: 
 1. Install Files:
